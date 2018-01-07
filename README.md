@@ -5,8 +5,10 @@
 
 [image0]: ./output_images/heatmap1.png 
 [image1]: ./output_images/heatmap2.png 
+[image2]: ./output_images/heatmap3.png 
 
 ![alt text][image0]
+![alt text][image2]
 ![alt text][image1]
 
 Overview
