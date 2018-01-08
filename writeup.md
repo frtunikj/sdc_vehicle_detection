@@ -138,7 +138,7 @@ This pipeline is implemented in [04_heatmap.ipynb](https://github.com/frtunikj/s
 
 ![alt text][image11] 
 
-After experimenting with the buffer length and threashold values the final values were set to:
+After experimenting with the buffer length and threshold values the final values were set to:
 
 ```
 'heat_threshold': 2,  
